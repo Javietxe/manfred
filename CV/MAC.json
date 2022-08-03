@@ -237,6 +237,19 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master Universitario en Gestión de Proyectos",
+        "startDate": "2015-09-01",
+        "finishDate": "2017-06-01",
+        "institution": {
+          "name": "UPNA",
+          "URL": "https://www.unavarra.es/sites/masteres/industriales/direccion-de-proyectos/presentacion.html"
+        }
+      }
     ]
   },
   "careerPreferences": {
