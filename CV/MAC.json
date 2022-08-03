@@ -249,6 +249,17 @@
           "name": "UPNA",
           "URL": "https://www.unavarra.es/sites/masteres/industriales/direccion-de-proyectos/presentacion.html"
         }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería Técnica en Informática de Gestión",
+        "startDate": "2003-09-01",
+        "finishDate": "2009-06-01",
+        "institution": {
+          "name": "UPNA",
+          "URL": "https://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-informatica/asignaturas-y-profesorado.html"
+        }
       }
     ]
   },
