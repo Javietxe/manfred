@@ -238,6 +238,40 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "D2D"
+        },
+        "roles": [
+          {
+            "name": "Programador",
+            "startDate": "2009-05-01",
+            "finishDate": "2010-12-01",
+            "competences": [
+              {
+                "name": "Eclipse",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Struts",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
