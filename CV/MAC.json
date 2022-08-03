@@ -65,6 +65,10 @@
             "finishDate": "2021-01-01",
             "competences": [
               {
+                "name": "Eclipse",
+                "type": "technology"
+              },
+              {
                 "name": "GitLab",
                 "type": "technology"
               },
@@ -74,6 +78,10 @@
               },
               {
                 "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Shell",
                 "type": "technology"
               },
               {
