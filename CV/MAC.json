@@ -55,7 +55,8 @@
       },
       {
         "organization": {
-          "name": "Openbravo"
+          "name": "Openbravo",
+          "URL": "https://www.openbravo.com/"
         },
         "roles": [
           {
