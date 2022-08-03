@@ -161,6 +161,45 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Balidea",
+          "URL": "https://balidea.com/"
+        },
+        "roles": [
+          {
+            "name": "Analista Programador",
+            "startDate": "2012-12-01",
+            "finishDate": "2013-09-01",
+            "competences": [
+              {
+                "name": "Eclipse",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "LifeRay",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "SVN",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
