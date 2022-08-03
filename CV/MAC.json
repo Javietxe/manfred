@@ -25,13 +25,18 @@
     "jobs": [
       {
         "organization": {
-          "name": "Openbravo"
+          "name": "Openbravo",
+          "URL": "https://www.openbravo.com/"
         },
         "roles": [
           {
             "name": "Technical Leader",
             "startDate": "2021-01-01",
             "competences": [
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
               {
                 "name": "JAVA",
                 "type": "technology"
@@ -41,7 +46,7 @@
                 "type": "technology"
               },
               {
-                "name": "PL/SQL",
+                "name": "PostgreSQL",
                 "type": "technology"
               }
             ]
