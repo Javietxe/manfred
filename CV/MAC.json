@@ -47,6 +47,36 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Openbravo"
+        },
+        "roles": [
+          {
+            "name": "Developers Team Leader",
+            "startDate": "2018-06-01",
+            "finishDate": "2021-01-01",
+            "competences": [
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Ubuntu",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
