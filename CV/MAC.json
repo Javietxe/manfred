@@ -241,6 +241,16 @@
     "studies": [
       {
         "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "I.T. Project Management",
+        "startDate": "2019-04-01",
+        "institution": {
+          "name": "Washington University via EDX",
+          "URL": "https://credentials.edx.org/credentials/d9398407a9ab4156be09e247b83b63c7/"
+        }
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": true,
         "name": "CAPM",
         "startDate": "2020-11-01",
