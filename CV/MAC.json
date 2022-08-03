@@ -126,6 +126,41 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Oesia",
+          "URL": "https://grupooesia.com"
+        },
+        "roles": [
+          {
+            "name": "Analista Programador",
+            "startDate": "2013-09-01",
+            "finishDate": "2015-12-01",
+            "competences": [
+              {
+                "name": "Eclipse",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "SOAP",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
