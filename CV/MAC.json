@@ -83,6 +83,41 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Openbravo",
+          "URL": "https://www.openbravo.com/"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2015-12-01",
+            "finishDate": "2018-06-01",
+            "competences": [
+              {
+                "name": "Eclipse",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Mercurial",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
