@@ -200,6 +200,44 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "iSOCO"
+        },
+        "roles": [
+          {
+            "name": "Analista Programador",
+            "startDate": "2011-01-01",
+            "finishDate": "2012-10-01",
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "LifeRay",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "SVN",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
