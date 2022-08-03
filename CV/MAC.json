@@ -240,6 +240,17 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "CAPM",
+        "startDate": "2020-11-01",
+        "finishDate": "2023-11-01",
+        "institution": {
+          "name": "PMI",
+          "URL": "https://www.credly.com/badges/df65a5d4-710e-4bfd-b42d-6c45d7b46f64?source=linked_in_profile"
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master Universitario en Gestión de Proyectos",
