@@ -272,6 +272,40 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "TB Solutions"
+        },
+        "roles": [
+          {
+            "name": "Programador Junior",
+            "startDate": "2007-08-01",
+            "finishDate": "2009-05-01",
+            "competences": [
+              {
+                "name": "Eclipse",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
