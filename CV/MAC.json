@@ -1,0 +1,78 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Javier",
+      "surnames": "Etxeberria Gartxitorena",
+      "title": "Technical Leader",
+      "description": "Technical Lead with more than 5 years of managing remote technical teams. I'm used to work under the client's pressure and I'm able to manage and deliver successfully these projects. The different experiences with different products, technologies and companies during my career helped me to be an easy-going person. Having more than 10 years of experience as a developer and formed in Project Management makes me be able to deal between the clients and internal functional and technical teams. ",
+      "location": {
+        "notes": "Pamplona"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/gartxito/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Basque"
+      },
+      {
+        "name": "English"
+      },
+      {
+        "name": "French"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/gartxito/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Jira",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
