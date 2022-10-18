@@ -315,16 +315,20 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Basque"
+        "name": "Basque",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "English"
+        "name": "English",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "French"
+        "name": "French",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
