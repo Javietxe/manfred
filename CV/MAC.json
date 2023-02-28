@@ -9,7 +9,7 @@
       "name": "Javier",
       "surnames": "Etxeberria Gartxitorena",
       "title": "Technical Leader",
-      "description": "Technical Lead with more than 5 years of managing remote technical teams. I'm used to work under the client's pressure and I'm able to manage and deliver successfully these projects. The different experiences with different products, technologies and companies during my career helped me to be an easy-going person. Having more than 10 years of experience as a developer and formed in Project Management makes me be able to deal between the clients and internal functional and technical teams. ",
+      "description": "",
       "location": {
         "country": "España",
         "region": "Navarra",
@@ -35,6 +35,11 @@
           {
             "name": "Technical Leader",
             "startDate": "2021-01-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "GitLab",
@@ -66,6 +71,11 @@
             "name": "Developers Team Leader",
             "startDate": "2018-06-01",
             "finishDate": "2021-01-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "Eclipse",
@@ -105,6 +115,11 @@
             "name": "Software Developer",
             "startDate": "2015-12-01",
             "finishDate": "2018-06-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "Eclipse",
@@ -140,6 +155,11 @@
             "name": "Analista Programador",
             "startDate": "2013-09-01",
             "finishDate": "2015-12-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "Eclipse",
@@ -175,6 +195,11 @@
             "name": "Analista Programador",
             "startDate": "2012-12-01",
             "finishDate": "2013-09-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "Eclipse",
@@ -213,6 +238,11 @@
             "name": "Analista Programador",
             "startDate": "2011-01-01",
             "finishDate": "2012-10-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "JAVA",
@@ -251,6 +281,11 @@
             "name": "Programador",
             "startDate": "2009-05-01",
             "finishDate": "2010-12-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "Eclipse",
@@ -285,6 +320,11 @@
             "name": "Programador Junior",
             "startDate": "2007-08-01",
             "finishDate": "2009-05-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "Eclipse",
@@ -359,6 +399,7 @@
         "startDate": "2019-04-01",
         "institution": {
           "name": "Washington University via EDX",
+          "description": "",
           "URL": "https://credentials.edx.org/credentials/d9398407a9ab4156be09e247b83b63c7/"
         }
       },
@@ -370,6 +411,7 @@
         "finishDate": "2023-11-01",
         "institution": {
           "name": "PMI",
+          "description": "",
           "URL": "https://www.credly.com/badges/df65a5d4-710e-4bfd-b42d-6c45d7b46f64?source=linked_in_profile"
         }
       },
@@ -381,6 +423,7 @@
         "finishDate": "2017-06-01",
         "institution": {
           "name": "UPNA",
+          "description": "",
           "URL": "https://www.unavarra.es/sites/masteres/industriales/direccion-de-proyectos/presentacion.html"
         }
       },
@@ -392,6 +435,7 @@
         "finishDate": "2009-06-01",
         "institution": {
           "name": "UPNA",
+          "description": "",
           "URL": "https://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-informatica/asignaturas-y-profesorado.html"
         }
       }
@@ -417,6 +461,7 @@
         "Engineering Management",
         "VP of Engineering"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
