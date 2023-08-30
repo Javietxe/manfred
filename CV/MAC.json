@@ -11,18 +11,12 @@
       "title": "Technical Leader",
       "description": "Soy un a persona que llevo desde el 2007 en diferentes puestos y empresas del sector IT. Ahora mismo soy Team Leader de un equipo de Tech Leaders en Openbravo y tengo 4 años de experiencia dirigiendo equipos en Remoto. \n\nUn Tech Leader en Openbravo se encarga de gestionar la parte técnica de los proyectos de implantación, pero no a liderar el producto técnicamente.\n\nMi background es técnico, ya que empecé en 2007 como desarrollador y nunca he abandonado del todo esa faceta laboralmente, pero siempre me ha atraído la gestión de proyectos, y por eso me formé e hice un Master Universitarion en Dirección de Proyectos y algunos años más tarde me preparé y aprobé el CAPM.\n\nEn mis equipos, considero que lo primordial es crear confianza para lograr una transparencia real y así poder analizar de primera mano dónde pueden estar las mejoras para hacer crecer al equipo.",
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJx2UZo4uSUA0RkC7LMjaQbk4)",
         "country": "España",
         "region": "Navarra",
-        "municipality": "Pamplona",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Pamplona"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/gartxito/"
-      }
-    ]
+    }
   },
   "experience": {
     "jobs": [
@@ -35,11 +29,6 @@
           {
             "name": "Technical Leader",
             "startDate": "2021-01-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "GitLab",
@@ -71,11 +60,6 @@
             "name": "Developers Team Leader",
             "startDate": "2018-06-01",
             "finishDate": "2021-01-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "Eclipse",
@@ -115,11 +99,6 @@
             "name": "Software Developer",
             "startDate": "2015-12-01",
             "finishDate": "2018-06-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "Eclipse",
@@ -155,11 +134,6 @@
             "name": "Analista Programador",
             "startDate": "2013-09-01",
             "finishDate": "2015-12-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "Eclipse",
@@ -195,11 +169,6 @@
             "name": "Analista Programador",
             "startDate": "2012-12-01",
             "finishDate": "2013-09-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "Eclipse",
@@ -238,11 +207,6 @@
             "name": "Analista Programador",
             "startDate": "2011-01-01",
             "finishDate": "2012-10-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "JAVA",
@@ -281,11 +245,6 @@
             "name": "Programador",
             "startDate": "2009-05-01",
             "finishDate": "2010-12-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "Eclipse",
@@ -320,11 +279,6 @@
             "name": "Programador Junior",
             "startDate": "2007-08-01",
             "finishDate": "2009-05-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "Eclipse",
@@ -355,20 +309,20 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Basque",
-        "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "English",
+        "name": "EN",
         "level": "Full professional proficiency"
       },
       {
-        "name": "French",
-        "level": "Professional working proficiency"
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "EU",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "FR",
+        "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
@@ -380,13 +334,13 @@
       },
       {
         "skill": {
-          "name": "SQL",
+          "name": "Jira",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Jira",
+          "name": "SQL",
           "type": "technology"
         }
       }
@@ -394,37 +348,23 @@
     "studies": [
       {
         "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "CAPM",
+        "startDate": "2020-11-01",
+        "institution": {
+          "name": "PMI",
+          "URL": "https://www.credly.com/badges/df65a5d4-710e-4bfd-b42d-6c45d7b46f64?source=linked_in_profile"
+        },
+        "finishDate": "2023-11-01"
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": false,
         "name": "I.T. Project Management",
         "startDate": "2019-04-01",
         "institution": {
           "name": "Washington University via EDX",
-          "description": "",
           "URL": "https://credentials.edx.org/credentials/d9398407a9ab4156be09e247b83b63c7/"
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "CAPM",
-        "startDate": "2020-11-01",
-        "finishDate": "2023-11-01",
-        "institution": {
-          "name": "PMI",
-          "description": "",
-          "URL": "https://www.credly.com/badges/df65a5d4-710e-4bfd-b42d-6c45d7b46f64?source=linked_in_profile"
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Master Universitario en Gestión de Proyectos",
-        "startDate": "2015-09-01",
-        "finishDate": "2017-06-01",
-        "institution": {
-          "name": "UPNA",
-          "description": "",
-          "URL": "https://www.unavarra.es/sites/masteres/industriales/direccion-de-proyectos/presentacion.html"
         }
       },
       {
@@ -432,11 +372,41 @@
         "degreeAchieved": true,
         "name": "Ingeniería Técnica en Informática de Gestión",
         "startDate": "2003-09-01",
-        "finishDate": "2009-06-01",
         "institution": {
           "name": "UPNA",
-          "description": "",
           "URL": "https://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-informatica/asignaturas-y-profesorado.html"
+        },
+        "finishDate": "2009-06-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master Universitario en Gestión de Proyectos",
+        "startDate": "2015-09-01",
+        "institution": {
+          "name": "UPNA",
+          "URL": "https://www.unavarra.es/sites/masteres/industriales/direccion-de-proyectos/presentacion.html"
+        },
+        "finishDate": "2017-06-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Capacidad de escucha",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gestión de equipo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
         }
       }
     ]
@@ -445,8 +415,17 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/gartxito/"
+          "URL": "https://www.linkedin.com/in/gartxito/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "javier.etxeberria@outlook.es"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "637269775",
+          "countryCode": "+34"
         }
       ]
     },
@@ -463,5 +442,8 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I will want a job where I can continue progressing with my management skills."
   }
 }
