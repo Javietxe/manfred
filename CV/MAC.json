@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -16,7 +16,13 @@
         "region": "Navarra",
         "municipality": "Pamplona"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/gartxito/"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -310,18 +316,22 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "EU",
+        "fullName": "Euskera",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "FR",
+        "fullName": "Francés",
         "level": "Professional working proficiency"
       }
     ],
@@ -421,12 +431,6 @@
       ],
       "contactMails": [
         "javier.etxeberria@outlook.es"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "637269775",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
