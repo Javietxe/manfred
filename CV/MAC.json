@@ -474,7 +474,12 @@
         "VP of Engineering"
       ]
     },
-    "status": "openToOffers"
+    "status": "openToOffers",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
   },
   "manfredSpecificData": {
     "desiredJobDescription": "I will want a job where I can continue progressing with my management skills."
