@@ -28,6 +28,36 @@
     "jobs": [
       {
         "organization": {
+          "name": "Orisha Commerce (former Openbravo)",
+          "URL": "https://commerce.orisha.com/es/"
+        },
+        "roles": [
+          {
+            "name": "Delivery Engineer's Team Leader",
+            "startDate": "2025-01-01",
+            "competences": [
+              {
+                "name": "Amazon Q Developer",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Openbravo",
           "URL": "https://www.openbravo.com/"
         },
