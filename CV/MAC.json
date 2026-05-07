@@ -369,7 +369,25 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Amazon Q Developer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Sheets",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -381,7 +399,7 @@
       },
       {
         "skill": {
-          "name": "SQL",
+          "name": "Python",
           "type": "technology"
         }
       }
@@ -482,6 +500,20 @@
     }
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Amazon Q Developer",
+        "type": "technology"
+      },
+      {
+        "name": "Jira",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "I will want a job where I can continue progressing with my management skills."
   }
 }
